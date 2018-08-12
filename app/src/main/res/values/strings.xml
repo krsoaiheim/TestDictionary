@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TestWorkpad</string>
+    <string name="add_word">Добавить слово</string>
+    <string name="ru">Русский : %1$s</string>
+    <string name="en">Английский : %1$s</string>
+    <string name="de">Немецкий : %1$s</string>
+    <string name="ja">Японский : %1$s</string>
+    <string name="from">С языка:</string>
+    <string name="to">На язык:</string>
+    <string name="ru_rad">Русский</string>
+    <string name="en_rad">Английский</string>
+    <string name="de_rad">Немецкий</string>
+    <string name="ja_rad">Японский</string>
+    <string name="ok">Ок</string>
+    <string name="add_to_dict">Добавить в словарь</string>
+    <string name="saved">Сохранено</string>
+    <string name="search_word">Найти слово</string>
+    <string name="error">Ошибка</string>
+</resources>
